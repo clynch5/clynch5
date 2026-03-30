@@ -20,7 +20,7 @@ I design and ship **production AI systems** — not demos, not POCs. Multi-agent
 |--------|----------------|
 | **Legal Tech** | AI-powered intake platform — lead qualification, document processing, email triage, real-time chat. Multi-tenant SaaS, 860+ commits, mobile app. |
 | **Insurance** | Real-time AI sales companion — live call transcription, product recommendations, compliance guidance. Augments a mature policy management platform. |
-| **Travel & Aviation** | Private jet sharing marketplace (95% complete), AI travel booking with proactive assistant, hotel reservation systems spanning 30 years of domain expertise. |
+| **Travel** | 30 years deep — founded one of the first online hotel booking platforms (1995), built infrastructure at Hotels.com and Expedia. Now building the next generation: **RoomLama** (white-label AI travel booking with proactive assistant and multi-supplier search), **TripLama** (AI-generated magazine-quality travel brochures and trip sharing), and **Jetmates** (private jet cost-sharing marketplace, 95% complete). |
 | **Motorsport** | Race intelligence platform — live timing data scraping, AI-powered race analysis, team/rider management. Web + mobile. |
 | **Pharma** | Patent arbitrage intelligence — cross-references 6 government data sources (FDA, SEC, USPTO, ClinicalTrials.gov) with AI-generated research reports. |
 | **Marketing** | AI outbound platform — account research, personalized landing page generation, automated sequences. Plus an automated SEO authority engine publishing across 40+ verticals nightly. |
